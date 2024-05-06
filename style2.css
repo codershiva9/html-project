@@ -1,0 +1,34 @@
+html{
+	background: #FBFFDC;
+}
+
+.heading h1,h2{
+	text-align: center;
+	color: firebrick;
+}
+
+div.link{
+	text-align: center;
+
+}
+
+div > h3{
+	text-align: center;
+	color: green;
+}
+
+h4{
+	text-align: center;
+	color: chocolate;
+}
+
+h5 {
+	text-align: center;
+	font-size: 15px ;
+	color: blueviolet;
+
+}
+
+div.anchor{
+	text-align: center;
+}

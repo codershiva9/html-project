@@ -1,0 +1,36 @@
+html{
+	background-color:#f5f5dc;
+}
+h2{
+	text-align: center;
+}
+.anchor{
+	text-align: center;
+	align-self: center;
+	
+}
+h3{
+	text-align: center;
+	color:#C40C0C;
+	font-weight: bold;
+	font-size: 30px;
+}
+li{
+	text-align: center;
+}
+.Berserk{
+	text-align: center;
+	color: FF6868;
+}
+p{
+	text-align: center;
+	alignment:center;
+}
+img{
+	justify-content: center;
+	margin-left:300px ;
+}
+img[alt="Tomodachi Game"]{
+	justify-content: center;
+	margin-left:450px ;
+}
